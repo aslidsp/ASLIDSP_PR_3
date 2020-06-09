@@ -1,7 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Hello from './Hello';
 
 function App ({name, address}) { 
  return <div> 
